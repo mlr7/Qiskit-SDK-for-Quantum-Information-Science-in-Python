@@ -3,7 +3,7 @@ An exploration of Qiskit, an SDK for quantum information science in Python.
 
 ![](img/qiskit_quantum_pic3.png)
 
-Qiskit is a software development kit (SDK) is a comprehensive platform for quantum programming developed by IBM. 
+The Qiskit software development kit (SDK) is a comprehensive platform for quantum programming developed by IBM. 
 At the heart of Qiskit are its elements - Terra, Aer, Ignis, and Aqua - each playing a crucial role in the quantum 
 computing ecosystem. 
 
