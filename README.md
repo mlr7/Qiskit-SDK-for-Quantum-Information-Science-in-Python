@@ -11,11 +11,11 @@ Terra, named after the 'earth' element, is the bedrock of Qiskit. It allows for 
 
 Key Features:
 
---Quantum Circuits: Design and execute sequences of quantum operations.
+**Quantum Circuits: Design and execute sequences of quantum operations.
 
---Pulse Scheduling: Customize quantum operations at a lower level for precision control.
+**Pulse Scheduling: Customize quantum operations at a lower level for precision control.
 
---Transpiler: Optimize quantum circuits for specific quantum devices.
+*Transpiler: Optimize quantum circuits for specific quantum devices.
 
---Providers and Backends: Interface with quantum hardware and simulators.
+*Providers and Backends: Interface with quantum hardware and simulators.
 Jobs and Results: Manage and retrieve the results of quantum experiments.
