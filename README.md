@@ -1,6 +1,8 @@
 # Qiskit-Python-Gateway-to-Quantum-Information-Science
 An exploration of the Qiskit, an SDK for quantum information science in Python.
 
+![](img/qiskit_quantum_pic2.png)
+
 Qiskit is a software development kit (SDK) is a comprehensive platform for quantum programming. 
 At the heart of Qiskit are its elements - Terra, Aer, Ignis, and Aqua - each playing a crucial role in the quantum 
 computing ecosystem. 
@@ -47,3 +49,32 @@ Key Features:
 
 - Domain-specific quantum algorithms.
 - Integration with classical algorithms for hybrid solutions.
+
+## Simulating the GHZ State
+
+![](img/ghz_pic1.png)
+
+The Greenberger-Horne-Zeilinger (GHZ) demonstrates some peculiarities of quantum entanglement across 
+multiple particles or qubits. Initially studied in the context of four particles by Daniel Greenberger, Michael Horne, and Anton Zeilinger in 1989, 
+and later expanded to three particles by N. David Mermin in 1990, GHZ states involve at least three subsystems that are 
+interconnected in such a way that the state of each particle cannot be described independently of the others.
+
+GHZ states are known for their "extremely non-classical properties," which means they exhibit behaviors that 
+cannot be explained by classical physics. One of the hallmark characteristics of GHZ states is their ability to 
+demonstrate quantum entanglement more starkly than simpler entangled states, such as the Bell states, which involve 
+only two particles. This makes GHZ states a powerful tool for probing the foundations of quantum mechanics and for 
+illustrating the differences between classical and quantum theories.
+
+In practical terms, GHZ states are not just a theoretical curiosity; they hold promise for enhancing the 
+performance of quantum technologies. For instance, in quantum metrology, GHZ states of a large number of 
+qubits are theorized to offer superior precision compared to other qubit superposition states. This potential 
+makes GHZ states a key area of research in the ongoing development of quantum computing and quantum information 
+science, as they could enable more accurate measurements and more powerful quantum algorithms.
+
+The notebook in this repositiory explores the fundamentals of the Quiskit SDK for quantum programming through an exploration of the GHZ state. 
+
+
+
+
+
+
