@@ -1,7 +1,7 @@
-# Qiskit-Python-Gateway-to-Quantum-Information-Science
+# Qiskit-SDK-for-Quantum-Information-Science-in-Python
 An exploration of the Qiskit, an SDK for quantum information science in Python.
 
-![](img/qiskit_quantum_pic2.png)
+![](img/qiskit_quantum_pic3.png)
 
 Qiskit is a software development kit (SDK) is a comprehensive platform for quantum programming. 
 At the heart of Qiskit are its elements - Terra, Aer, Ignis, and Aqua - each playing a crucial role in the quantum 
