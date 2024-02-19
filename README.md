@@ -1,9 +1,9 @@
 # Qiskit-SDK-for-Quantum-Information-Science-in-Python
-An exploration of the Qiskit, an SDK for quantum information science in Python.
+An exploration of Qiskit, an SDK for quantum information science in Python.
 
 ![](img/qiskit_quantum_pic3.png)
 
-Qiskit is a software development kit (SDK) is a comprehensive platform for quantum programming. 
+Qiskit is a software development kit (SDK) is a comprehensive platform for quantum programming developed by IBM. 
 At the heart of Qiskit are its elements - Terra, Aer, Ignis, and Aqua - each playing a crucial role in the quantum 
 computing ecosystem. 
 
@@ -54,7 +54,7 @@ Key Features:
 
 ![](img/ghz_pic1.png)
 
-The Greenberger-Horne-Zeilinger (GHZ) demonstrates some peculiarities of quantum entanglement across 
+The Greenberger-Horne-Zeilinger (GHZ) state demonstrates some peculiarities of quantum entanglement across 
 multiple particles or qubits. Initially studied in the context of four particles by Daniel Greenberger, Michael Horne, and Anton Zeilinger in 1989, 
 and later expanded to three particles by N. David Mermin in 1990, GHZ states involve at least three subsystems that are 
 interconnected in such a way that the state of each particle cannot be described independently of the others.
@@ -73,8 +73,8 @@ science, as they could enable more accurate measurements and more powerful quant
 
 The notebook in this repositiory explores the fundamentals of the Quiskit SDK for quantum programming through an exploration of the GHZ state. 
 
+![](img/zeilinger_nobel.png)
 
-
-
+Pictured above, Anton Zeilinger accepts the 2022 Nobel Prize in Physics "for experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science"
 
 
